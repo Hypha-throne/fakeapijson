@@ -1,1 +1,603 @@
-
+[
+  
+  {
+    "ID": "001",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "002",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "003",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "004",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "005",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "006",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "007",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "008",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "009",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "010",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "011",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "012",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "013",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "014",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "015",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "016",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "017",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "018",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "019",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "020",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "021",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "022",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "023",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "024",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "025",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "026",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "027",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "028",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "029",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "030",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "031",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "032",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "033",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "034",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "035",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "036",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "037",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "038",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "039",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "040",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "041",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "042",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "043",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "044",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "045",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "046",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "047",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "048",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "049",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "050",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "051",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "052",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "053",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "054",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "055",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "056",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "057",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "058",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "059",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  },
+  {
+    "ID": "060",
+    "Date": "NA",
+    "Equipment tag": "Machine 1",
+    "Equipment name": "Machine 1",
+    "Plant": "TPE",
+    "Area": "HDPE",
+    "Condition": "Good",
+    "Status": "Wating approve"
+  }
+]
